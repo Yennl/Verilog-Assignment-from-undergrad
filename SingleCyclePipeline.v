@@ -2,10 +2,10 @@
 `define WORD    	[15:0]
 `define OPcode		[15:12]
 `define dest		[11:8]
-`define src			[7:4]
+`define src		[7:4]
 `define alt     	[3:0]
 `define imm     	[7:0]
-`define OP			[4:0]
+`define OP		[4:0]
 
 `define EN     		[31:0]
 `define STATE    	[3:0]
